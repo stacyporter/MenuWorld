@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
             greetingView.setText(R.string.bye);
             return true;
         }
+        else if (item.getItemId() == R.id.action_rock) {
+            greetingView.setText(R.string.rock);
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }

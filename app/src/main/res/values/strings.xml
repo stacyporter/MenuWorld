@@ -3,4 +3,6 @@
     <string name="say_bye">Say bye!</string>
     <string name="hello_world">Hello world!</string>
     <string name="bye">Goodbye!</string>
+    <string name="say_rock">Say Rock</string>
+    <string name="rock">Rock On!</string>
 </resources>
