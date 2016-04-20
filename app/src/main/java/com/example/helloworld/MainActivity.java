@@ -33,6 +33,19 @@ public class MainActivity extends AppCompatActivity {
             greetingView.setText(R.string.rock);
             return true;
         }
+        else if (item.getItemId() == R.id.action_block) {
+            greetingView.setText(R.string.block);
+            return true;
+        }
+        else if (item.getItemId() == R.id.action_knock) {
+            greetingView.setText(R.string.knock);
+            return true;
+        }
+        else if (item.getItemId() == R.id.action_miles) {
+            greetingView.setText(R.string.miles);
+            return true;
+        }
+
         return super.onOptionsItemSelected(item);
     }
 }

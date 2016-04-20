@@ -5,4 +5,10 @@
     <string name="bye">Goodbye!</string>
     <string name="say_rock">Say Rock</string>
     <string name="rock">Rock On!</string>
+    <string name="say_knock">Say Knock</string>
+    <string name="knock">Knock Knock</string>
+    <string name="say_block">Say Block</string>
+    <string name="block">Jenny from the Block</string>
+    <string name="say_miles">Say Miles</string>
+    <string name="miles">I would walk 500 Miles</string>
 </resources>
